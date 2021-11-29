@@ -1,4 +1,4 @@
-### Hi, I'm Swagnik
+### Hi, I'm Swagnik 👋
 
 I'm a software engineer based in India 🇮🇳
 
