@@ -2,7 +2,7 @@
 
 I'm a software engineer based in India 🇮🇳
 
-I started off my career as a front-end developer; little by little, I developed a keen interest in challenges tackled in backend engineering. I feel the scope of getting creative with distributed systems is endless and I'm curious to learn how solutions are architected around diverse use cases. 
+I started off my career as a front-end developer. As time passed, I developed a keen interest in challenges tackled in backend engineering. I feel the scope of getting creative with distributed systems is endless and I'm curious to learn how solutions are architected around diverse use cases. 
 
 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I focused on becoming a better programmer.
 
