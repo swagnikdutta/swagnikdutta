@@ -1,6 +1,6 @@
 ### Hi, I'm Swagnik 👋
 
-I'm a software engineer based in India. 
+I'm a software engineer based in India 🇮🇳
 
 I started off my career as a front-end developer; little by little, I developed a keen interest in challenges tackled in backend engineering. I feel the scope of getting creative with distributed systems is endless and I'm curious to learn how solutions are architected around diverse use cases. 
 
