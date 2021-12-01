@@ -7,7 +7,7 @@ I started off my career as a front-end developer and gradually developed a keen 
 I attended [The Recurse Center](https://www.recurse.com/) in the Fall of 2021, where I focused on becoming a better programmer.
 
 - 🔨 I'm currently working on [Raft](https://github.com/swagnikdutta/raft) - My implementation of the distributed consensus algorithm in Golang.
-- 📚 I'm a fan of [DDIA](https://dataintensive.net/). Occasionally I muster enough courage to read the [SICP](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs).
+- 📚 I'm a fan of [DDIA](https://dataintensive.net/). Occasionally I muster enough courage to read the [SICP.](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Computer_Programs)
 
 
 
